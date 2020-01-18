@@ -4,7 +4,7 @@
 
 Submitted by: **Laith Bayyyari**
 
-Time spent: **45** hours spent in total
+Time spent: **0.45** hours spent in total
 
 ## User Stories
 
