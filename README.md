@@ -1,6 +1,6 @@
 # Pre-work - *Lippy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Lippy** is a tip calculator application for iOS.
 
 Submitted by: **Laith Bayyyari**
 
